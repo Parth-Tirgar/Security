@@ -1,4 +1,4 @@
-namespace JWTAuthentication
+namespace JWTAuthentication.Model
 {
     public class WeatherForecast
     {
